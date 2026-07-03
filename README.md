@@ -2,7 +2,7 @@
 ### 
 **(c) 2026 NukersecGroup - All Rights Reserved**
 
-![NUkerBinder Banner](https://i.imgur.com/n6BdPyZ.png)
+![NUkerBinder Banner]([https://imgur.com/undefined)
 
 ---
 
